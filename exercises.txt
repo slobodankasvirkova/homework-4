@@ -1,0 +1,9 @@
+HTML Homework 4 Exercises
+
+1. Create these Buttons like on exercise-1.jpg
+
+2.Create a HTML Page that has a Table that looks like exercise-2.png
+
+3.Create a HTML Page that has a Navigation that looks like exercise-3.png
+
+Use CSS Classes in CSS.
