@@ -1,0 +1,21 @@
+body{
+    padding: 10px;
+    font-family: 'Roboto',sans-serif;
+}
+section {
+    line-height: 3;
+    padding: 5px;
+    background-color: steelblue;
+    
+}
+a.but { /* attributes for buttons with class but */
+    text-decoration: none;
+    margin: 5px;
+    color: white;
+}
+a:hover {
+    color: black;
+}
+a:focus {
+    color: blue;
+}

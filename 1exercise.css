@@ -1,0 +1,44 @@
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body { /* atributes for body */
+    font-family: 'Roboto',sans-serif;
+    margin: auto;
+    width: 300px;
+    line-height: 4;
+    padding: 10px;
+    text-align: center;
+    background-color: seashell;
+}
+a { /* atributes for buttons */
+    text-decoration: none;
+    padding: 10px 15px;
+    border: 1px solid;
+    box-shadow: 1px 1px 3px;
+    
+}
+a.blue { /* attributes for buttons with class blue */
+background-color: royalblue;
+color: white;
+}
+a.transparent { /*attributes for buttons with class transparent */
+    background-color: transparent;
+    color: royalblue;
+}
+a.bluer { /* attributes for buttons with class bluer */
+    border-radius: 20px;
+    background-color: royalblue;
+    color: white;
+}
+a.transparentr { /* attributes for buttons with class transparentr */
+    border-radius: 20px;
+    background-color: transparent;
+    color: royalblue;
+}
+a:hover {
+    background-color: silver;
+}
+a:focus {
+    background-color: tan;
+}
